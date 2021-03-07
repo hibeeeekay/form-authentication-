@@ -5,6 +5,10 @@ h2{
     margin-bottom: 20px;
     text-align: center;
 }
+.log{
+    margin-right: 20px;
+    text-align: center;
+}
 .container{
     display: flex;
     justify-content: center;
