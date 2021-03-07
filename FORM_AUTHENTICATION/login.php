@@ -7,6 +7,10 @@
 </head>
 <body>
 <h2>LOGIN FORM</h2>   
+   <div class="log">  
+    <p>The EMAIL to log in is <b>hibeeeekay@gmail.com</b></p>
+    <p>The PASSWORD to log in is <b>choice</b></p>
+  </div>
   <div class="container">
    <table cellpadding="10" cellspacing="10" >
        
