@@ -11,8 +11,8 @@
 
 <?php
   session_start();
-  echo "Welcome".' '.  $_SESSION['email']; 
-  echo "<a href='logout.php'> logout </a>";
+  echo "Welcome".' '.  $_SESSION['email']. "."; 
+  echo "Click here to  <a href='logout.php'> logout </a>";
 ?>
    </div>
 </body>
